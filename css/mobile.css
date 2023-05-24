@@ -8,6 +8,7 @@
 }
 
 #navbar-items {
+    color: black;
     flex-direction: column;
     text-align: center;
     width: 100%;
